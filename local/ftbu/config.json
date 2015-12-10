@@ -25,13 +25,13 @@
     "admin_world_border": true,
     "back": true,
     "crossDimHomes": true,
-    "home": true,
+    "home": false,
     "maxHomesAdmin": 100,
     "maxHomesPlayer": 1,
     "name_cmd_admin": "admin",
     "spawn": true,
     "tplast": true,
-    "warp": true
+    "warp": false
   },
   "general": {
     "allowCreativeInteractSecure": true,
